@@ -1,9 +1,9 @@
 ---
 # <span style="color:blue">2134</span>
-<span style="color:blue">두글자 한명과 세글자 네명</span>
+# <span style="color:blue">두글자 한명과 세글자 네명</span>
 ---
 # 팀원들의 이름과   
-별명, 성격  
+# 별명, 성격  
 # 연말 계획 및 12월 31일에 하고 싶은 것    
 ---
 # 허영   

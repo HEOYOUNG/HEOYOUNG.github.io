@@ -1,7 +1,7 @@
 ---
-title: 자기 주도 학습
-date: 2018-12-26
-categories: notice
+title: "자기 주도 학습"
+date: 2018-12-26 08:26:28 -0400
+categories: jekyll update
 ---
 
 # 주제 1

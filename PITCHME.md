@@ -13,7 +13,7 @@
 황토사우나에서 10분 견디기      
 ---
 
-![Alt text](/zoo.jpg)
+![Alt text](/img/zoo.jpg)
 ---
 # 김선일  
 별명 : 오트밀     
@@ -21,7 +21,7 @@
 송년회 하기     
 ---
 
-![Alt text](/b.jpg)
+![Alt text](/img/b.jpg)
 ---
 
 # 송병하  
@@ -30,14 +30,14 @@
 휴식하거나 취침     
 ---
 
-![Alt text](/mil.gif)
+![Alt text](/img/mil.gif)
 ---
 # 이수현  
 별명 : 이순신     
 성격 : 천연덕, 차분하다.   
 친구 만나기     
 ---
-<img src="/da.jpg" width="300" height="300">   
+<img src="/img/da.jpg" width="300" height="300">   
 
 ---
 # 정동준  
@@ -48,7 +48,7 @@
 
 ---
 
-![Alt text](/moo.jpg)
+![Alt text](/img/moo.jpg)
 ---
 # 감사합니다   
 
